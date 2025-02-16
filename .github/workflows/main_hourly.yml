@@ -22,4 +22,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run the script
-        run: python BTC-usd_LR_1-14_day.py
+        run: python LR_1-14_day.py
